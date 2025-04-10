@@ -30,8 +30,4 @@ I love transforming numbers into narratives. Whether it's slicing through SQL qu
 
 ---
 
-### 📍 Location
-
-```yaml
-🌎 Utah, USA
-🏞️ Lover of nature, clean data, and creative visualizations
+### 
