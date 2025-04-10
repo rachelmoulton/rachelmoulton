@@ -5,9 +5,9 @@
 
 ---
 
-### 💼 About Me
+###  About Me
 
-I'm a passionate data professional with a love for transforming numbers into narratives. Whether it's slicing through SQL queries or building stunning dashboards, I thrive on delivering insights that drive smarter decisions.
+I love transforming numbers into narratives. Whether it's slicing through SQL queries or building stunning dashboards, I thrive on delivering insights that drive smarter decisions.
 
 ---
 
@@ -27,13 +27,6 @@ I'm a passionate data professional with a love for transforming numbers into nar
 </p>
 
 ---
-
-### 🌟 What I Love Doing
-
-- 🧠 Diving into complex datasets and finding hidden patterns
-- 📊 Designing clean, insightful dashboards for fast decision-making
-- 🤖 Exploring AI tools for smarter analytics and automation
-- 🧩 Collaborating with teams to build data strategies that scale
 
 ---
 
